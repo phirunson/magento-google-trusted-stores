@@ -1,0 +1,12 @@
+{
+  "name": "develodesign/magento-google-trusted-stores",
+  "type": "magento-module",
+  "description": "Google Trusted Stores integration",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Develo // Design",
+      "email": "info@develodesign.co.uk"
+    }
+  ]
+}
